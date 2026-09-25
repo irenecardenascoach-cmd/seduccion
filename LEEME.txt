@@ -1,0 +1,12 @@
+EL CÓDIGO ROJO DE LA SEDUCCIÓN
+Desnuda la psicología del hombre imposible
+Por Dr. Irene Cárdenas | Especialista en Pareja
+© Quanta Espiritual - Dr. Irene Cárdenas | Especialista en Pareja
+
+Audiolibro interactivo en HTML. Abre index.html en un navegador moderno. Cada capítulo es un HTML independiente; conserva la carpeta assets junto a los archivos para que funcionen las imágenes, los estilos y el audio.
+
+Incluye 13 capítulos, unas 35.700 palabras de contenido y 206 páginas interactivas de lectura; una imagen original por capítulo; voces en español disponibles en el dispositivo con control de ritmo, pausa y reanudación; estilos de narración; diez ambientes musicales continuos con volumen independiente; efecto de pasar página, navegación y vista de impresión.
+
+La disponibilidad y calidad de las voces depende del navegador y del sistema. La música se genera localmente en el navegador. Se usan fuentes tipográficas de respaldo, así que la maquetación no depende de una descarga externa.
+
+Fuentes y lecturas complementarias: fuentes-y-lecturas.html. Los capítulos pueden alojarse por separado en Hotmart; incluye la carpeta assets con cada HTML.
